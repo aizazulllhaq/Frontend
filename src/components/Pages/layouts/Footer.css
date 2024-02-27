@@ -1,0 +1,59 @@
+.f-info-links a{
+    text-decoration: none;
+    color: white;
+}
+
+.f-info-links a:hover{
+    text-decoration: underline;
+}
+
+.f-info{
+    text-align: center;
+    display: flex;
+    height: 8rem;
+    background:linear-gradient(to right,black,#292828);
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.f-info-links , .f-info-socials , .f-info-brand{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.f-info-socials{
+    color: white;
+    font-family: serif;
+}
+
+.f-info-socials i{
+    font-size: 1.2rem;
+    margin-right: 1rem;
+}
+
+.f-info-brand{
+    font-family: serif;
+    color: white;
+}
+
+/* html {
+    position: relative;
+    min-height: 100%;
+} */
+
+body {
+    margin-bottom: 60px;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(247, 250, 255, 0.959);
+    padding: 0px 0;
+    width: 100vw;
+    border: 0.5px solid rgb(226, 226, 226);
+}

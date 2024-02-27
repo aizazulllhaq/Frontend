@@ -1,0 +1,15 @@
+textarea{
+    padding: 10px;
+    border-radius: 12px;
+}
+
+select{
+    padding: 5px 30px;
+    background-color: rgba(247, 250, 255, 0.959);
+    border-radius: 6px;
+    margin-left: 60px;
+}
+
+.row{
+    height: 55rem;
+}

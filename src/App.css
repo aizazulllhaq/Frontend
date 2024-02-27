@@ -1,0 +1,23 @@
+body{
+    margin-right: -31px;
+    background-color: rgba(247, 250, 255, 0.959);
+    margin-bottom: 60px;
+}
+
+html{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: auto;
+    margin-left: -12px;
+    position: relative;
+    min-height: 100%;
+}
+  
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Roboto', sans-serif;
+}
+  
+p {
+    font-family: 'Open Sans', sans-serif;
+}

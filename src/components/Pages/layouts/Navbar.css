@@ -1,0 +1,15 @@
+.c-btn{
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    /* font-family: 'Roboto', sans-serif; */
+    font-family: serif;
+}
+
+.c-btn:hover{
+    color: #686767;
+}
+
+nav{
+    background:linear-gradient(to right,black,#292828);
+}

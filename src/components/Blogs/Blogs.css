@@ -1,0 +1,59 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 160px;
+    justify-content: center;
+}
+
+.card{
+    margin: 10px 10px;
+}
+
+img{
+    width: 15rem;
+    height: 17rem;
+}
+
+.title{
+    text-decoration: none;
+    color: black;
+}
+
+span{
+    font-size: small;
+    margin: 0px 10px;
+    margin-left: 0;
+}
+
+.read-btn{
+    text-decoration: none;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    color: blue;
+}
+
+.read-btn:hover{
+    background-color: rgba(222, 228, 238, 0.959);
+}
+
+
+
+.blogs-comp{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h4{
+    margin-top: 20px;
+    box-shadow: 2px 2px 10px grey inset;
+    padding: 10px;
+    border-radius: 10px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.bnt{
+    text-decoration: none;
+    color: black;
+}
